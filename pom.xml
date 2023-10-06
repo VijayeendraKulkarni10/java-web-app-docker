@@ -19,6 +19,8 @@
 
 	<properties>
 		<!-- versions -->
+		<sonar.host.url>http://172.31.47.112:9000/</sonar.host.url>
+		<sonar.login>squ_a6ca6514b22884af8f29df858fe684ea7e9053a8</sonar.login>
 		
 		<spring.version>5.0.7.RELEASE</spring.version>
 		<junit.version>4.12</junit.version>
